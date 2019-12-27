@@ -6,8 +6,10 @@ https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/overview
 
 My solution - 
 I have created an MD file for my solution along with RMD.
-MD File - [a relative link](other_file.md)
-RMD File - [a relative link](other_file.md)
+
+MD File - [Walmart-sale-in-stormy-weather.md](Walmart-sale-in-stormy-weather.md)
+
+RMD File - [Walmart-sale-in-stormy-weather.Rmd](Walmart-sale-in-stormy-weather.Rmd)
 
 An in depth analysis of the kaggle competition with focus on following points - 
 * EDA - Look at the variables, include graphical displays, talk about anything interesting you notice, potential issues.
