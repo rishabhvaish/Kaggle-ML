@@ -1,6 +1,14 @@
 # Walmart-sale-in-stormy-weather
 Predict how sales of weather-sensitive products are affected by snow and rain.
 
+Overview and Data - 
+https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/overview
+
+My solution - 
+I have created an MD file for my solution along with RMD.
+MD File - [a relative link](other_file.md)
+RMD File - [a relative link](other_file.md)
+
 An in depth analysis of the kaggle competition with focus on following points - 
 * EDA - Look at the variables, include graphical displays, talk about anything interesting you notice, potential issues.
 * Linear Regression Model / Diagnostics - For this one model, discuss its summary, significance, diagnostics, etc. Interpret the results and coefficients in the context of OLS (it’s ok if the model is ultimately not “correct”)
